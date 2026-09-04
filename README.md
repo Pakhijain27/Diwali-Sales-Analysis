@@ -41,6 +41,9 @@ Power BI
 -   Sales by Product Category
 -   Top 10 States by Sales
 -   Top 10 Products by Sales
+### 📸 Dashboard Preview — Page 1
+
+![Diwali Sales Dashboard](images/dashboard_page1.png)
 
 ### 🛍️ Page 2 --- Customer & Product Analysis
 
@@ -49,6 +52,10 @@ Power BI
 -   Overall Sales Distribution by Category
 -   Top 10 Products by Sales
 -   Sales by Age Group & Gender
+
+### 📸 Dashboard Preview – Page 2
+
+![Customer & Product Analysis](images/dashboard_page2.png) 
 
 Interactive slicers are available for **State, Occupation, Age Group,
 and Gender**.
